@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/83470427/155627831-26987d8e-5fe8-4b46-
 `Git para versionamento`
 `GitHub para armazenamento`
 
-###### Aplicação
+###### Como rodar a aplicação
 
 ```bash
 # clonar repositório 
