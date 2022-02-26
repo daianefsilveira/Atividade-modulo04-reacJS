@@ -3,7 +3,7 @@
 Viaje bem é uma aplicação web construída durante a formação em Desenvolvimento Web Full Stack, curso organizado pela Recode.
 A aplicação front end consiste em 4 páginas, sendo elas home, destinos, passagens e cadastro.
 
-https://user-images.githubusercontent.com/83470427/155627831-26987d8e-5fe8-4b46-86c2-7f8187e73998.mp4
+https://user-images.githubusercontent.com/83470427/155857185-0d9f8c3c-0f2e-4ccb-ba90-9e6794d361d0.mp4
 
 ###### Tecnologias
 `ReactJS` `CSS` `JS`
